@@ -12,7 +12,7 @@ Standardowa konfiguracja.
 
 ##### 1.3 Xming
 
-Konfiguracja jak na obrazku.
+Konfiguracja jak na obrazku niżej:
 
 ![](images/79508776_619676525449372_1546663696619536384_n.png)
 
@@ -24,13 +24,13 @@ Konfiguracja jak na obrazku.
 
 ##### 1.4 Xming-fonts
 
-Konfiguracja jak na obrazku.
+Konfiguracja jak na obrazku niżej:
 
 ![](images/79768663_472134047051652_1023473715746177024_n.png)
 
 
 
-## 2. Konfiguracja i połączenie z serwerem KNE PW.
+## 2. Konfiguracja puTTY i połączenie z serwerem KNE PW.
 
 ##### 2.1 Uruchom puTTY
 
