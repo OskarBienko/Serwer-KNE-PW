@@ -1,1 +1,1 @@
-# Serwer-KNE-PW
+### Tutorial wyżej pokazuje jak zacząć pracę z serwerem KNE PW w przypadku skonfigurowanego połączenia VPN. Alternatywnie można pracować na serwerze po połączeniu z siecią wifi ITC-stud. Wówczas tutorial pozostaje aktualny, zmianie ulegają 3 parametry - adres IP, login i hasło.
