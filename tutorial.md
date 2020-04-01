@@ -56,7 +56,7 @@ Konfiguracja jak na obrazku niżej:
 
 
 
-## 3. Logowanie i uruchomienie programu Ansys 19.2 na serwerze.
+## 3. Logowanie i uruchomienie programu Ansys 2019 R3 na serwerze.
 
 ##### 3.1 Udało Ci się nawiązać połączenie z serwerem. To co widzisz przed sobą jest tzw. konsolą. Aby się zalogować, użyj poniższych poleceń:
 
@@ -86,4 +86,4 @@ Zdjęcie jest poglądowe. Nie sugeruj się poleceniami na zdjęciu.
 
 ##### 
 
-# Licencja KNE PW obejmuje obliczenia na maksymalnie 48 rdzeniach, więc polecam zadeklarowanie właśnie 48 rdzeni w ustawieniach Solvera.
+# Licencja KNE PW obejmuje obliczenia aż na 80 rdzeniach, więc polecam zadeklarowanie właśnie tyle rdzeni w ustawieniach Solvera.
