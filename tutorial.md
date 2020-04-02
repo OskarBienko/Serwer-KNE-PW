@@ -60,13 +60,13 @@ Konfiguracja jak na obrazku niżej:
 
 ##### 3.1 Udało Ci się nawiązać połączenie z serwerem. To co widzisz przed sobą jest tzw. konsolą. Aby się zalogować, użyj poniższych poleceń:
 
-`kne` + enter
+`knest` + enter
 
-`DK12k21zx` + enter
+`Grw31ot13` + enter
 
 `xterm &` + enter
 
-##### 3.2 Otworzyła się następna konsola. Aby uruchomić Ansys 19.2 wpisz:
+##### 3.2 Otworzyła się następna konsola. Aby uruchomić Ansys 2019 R3 wpisz:
 
 `runwb2 &` + enter
 
